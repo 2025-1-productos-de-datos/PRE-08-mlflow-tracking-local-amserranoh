@@ -1,0 +1,15 @@
+artifact_uri: file:D:\Documents\universidad\posgrado\producto de datos\talleres\PRE-08-mlflow-tracking-local-amserranoh\my_mlruns/930836585572126998/842b563be70a4443a09bf3fa15918036/artifacts
+end_time: 1749187747172
+entry_point_name: ''
+experiment_id: '930836585572126998'
+lifecycle_stage: active
+run_id: 842b563be70a4443a09bf3fa15918036
+run_name: knn_e5e99538
+run_uuid: 842b563be70a4443a09bf3fa15918036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749187746270
+status: 3
+tags: []
+user_id: Ana Serrano

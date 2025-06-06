@@ -105,3 +105,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+## Interface:
+## mlflow ui --backend-store-uri file:./my_mlruns

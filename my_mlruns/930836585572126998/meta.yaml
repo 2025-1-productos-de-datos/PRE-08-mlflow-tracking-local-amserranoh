@@ -1,0 +1,6 @@
+artifact_location: file:D:\Documents\universidad\posgrado\producto de datos\talleres\PRE-08-mlflow-tracking-local-amserranoh\my_mlruns/930836585572126998
+creation_time: 1749187696673
+experiment_id: '930836585572126998'
+last_update_time: 1749187696673
+lifecycle_stage: active
+name: wine_quality_experiment
